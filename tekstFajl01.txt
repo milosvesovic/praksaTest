@@ -1,1 +1,2 @@
 linija1
+linija2
