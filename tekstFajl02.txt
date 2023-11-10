@@ -1,1 +1,4 @@
 linija01
+linija02
+linija03
+linija04
